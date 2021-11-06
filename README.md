@@ -6,6 +6,14 @@ Container was created as an attempt to move everything inside Docker, even thing
 
 **Warning:** this image isn't small and contains everything that is available in Alpine Linux for php. If you want to minimize image size - please build application-specific container!
 
+## Versions
+
+At current commit image is using:
+
+* Alpine 3.14.0
+* nginx 1.20.1
+* php 7.4.25
+
 ## Adding nginx configuration
 
 Just bind files (or whole directory) to `/etc/nginx/conf.d`.
