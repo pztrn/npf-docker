@@ -11,8 +11,8 @@ Container was created as an attempt to move everything inside Docker, even thing
 At current commit image is using:
 
 * Alpine 3.14.0
-* nginx 1.20.1
-* php 7.4.25
+* nginx 1.20.2
+* php 7.4.26
 
 ## Adding nginx configuration
 
