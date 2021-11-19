@@ -12,3 +12,4 @@ steps:
       password:
         from_secret: dockerhub_password
       repo: pztrn/npf
+      auto_tag: true
