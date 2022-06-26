@@ -8,8 +8,5 @@ steps:
     image: plugins/docker
     settings:
       registry: code.pztrn.name
-      username: drone
-      password:
-        from_secret: drone_secret
       repo: code.pztrn.name/containers/npf-docker
       auto_tag: true
