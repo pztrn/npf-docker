@@ -10,7 +10,7 @@ Container was created as an attempt to move everything inside Docker, even thing
 
 At current commit image is using:
 
-* Alpine 3.14.0
+* Alpine 3.16.1
 * nginx 1.22.1
 * php 8.1.17
 
